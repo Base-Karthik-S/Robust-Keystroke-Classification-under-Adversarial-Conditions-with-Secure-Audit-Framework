@@ -1,0 +1,5 @@
+model_name,Clean accuracy,attack type,epsilon,adversarial accuracy,relative accuracy,ASR
+SkypeType_SVM,95.75,DFT-Random,0.005,95.4375,99.6736,0.326371
+SkypeType_SVM,95.75,DFT-Random,0.01,94.9375,99.1514,0.848564
+SkypeType_SVM,95.75,DFT-Random,0.02,93.0625,97.1932,2.806789
+SkypeType_SVM,95.75,DFT-Random,0.05,41.375,43.2115,56.788512

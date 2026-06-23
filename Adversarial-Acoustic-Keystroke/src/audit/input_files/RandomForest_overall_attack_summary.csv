@@ -1,0 +1,5 @@
+model_name,Clean accuracy,attack type,epsilon,adversarial accuracy,relative accuracy,ASR
+Random Forest,90.62,DFT-Random,0.005,85,93.79,6.21
+Random Forest,90.62,DFT-Random,0.01,66.88,73.79,26.21
+Random Forest,90.62,DFT-Random,0.02,45.19,49.86,50.14
+Random Forest,90.62,DFT-Random,0.05,32.12,35.45,64.55

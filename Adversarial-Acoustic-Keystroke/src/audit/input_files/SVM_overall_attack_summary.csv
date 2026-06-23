@@ -1,0 +1,5 @@
+model_name,Clean accuracy,attack type,epsilon,adversarial accuracy,relative accuracy,ASR
+SVM,96.06,DFT-Random,0.005,92.0,95.77,4.23
+SVM,96.06,DFT-Random,0.01,82.44,85.82,14.18
+SVM,96.06,DFT-Random,0.02,47.5,49.45,50.55
+SVM,96.06,DFT-Random,0.05,12.06,12.56,87.44
