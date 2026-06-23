@@ -1,0 +1,12 @@
+{
+    "model_name": "LSTM",
+    "clean_accuracy": 91.81,
+    "mean_adv_accuracy": 91.38,
+    "mean_asr": 0.48,
+    "robustness_score": 91.33,
+    "rank": 1,
+    "timestamp": "2026-03-20 03:19:23 UTC",
+    "file_hash": "1dccfbe258e944fb059330e504ffea00da6220f19b5eda08782881252bab1748",
+    "transaction_hash": "0xd8aa6c9a68683b7ced46fbf29c73ef034f1a3bbf22da81e38f39f5a3d03da634",
+    "etherscan_url": "https://sepolia.etherscan.io/tx/0xd8aa6c9a68683b7ced46fbf29c73ef034f1a3bbf22da81e38f39f5a3d03da634"
+}
