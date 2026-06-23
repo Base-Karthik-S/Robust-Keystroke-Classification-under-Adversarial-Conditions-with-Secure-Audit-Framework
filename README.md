@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/status-research%20prototype-orange.svg)]()
 [![Ethereum](https://img.shields.io/badge/audit-Sepolia%20testnet-627EEA.svg)](https://sepolia.etherscan.io/)
 
-> MSc Cyber Security group project — *Research Methods and Group Project in Security and Resilience (CSC8208)*, Newcastle University.
+> MSc Cyber Security Group project
 
 ---
 
