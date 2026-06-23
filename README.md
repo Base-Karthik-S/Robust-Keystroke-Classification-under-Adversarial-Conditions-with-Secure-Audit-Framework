@@ -81,7 +81,7 @@ acoustic-keystroke-adversarial/
 ├── .gitignore
 ├── .env.example                 # template for RPC URL / keys (never commit real keys)
 ├── report/
-│   └── CSC8208_G2_GroupProject_Report.pdf
+│   └── Report.pdf
 ├── docs/
 │   └── images/                  # architecture diagram + result figures
 ├── src/
@@ -92,7 +92,6 @@ acoustic-keystroke-adversarial/
 │   │   └── features/            # MFCC + log-Mel extraction
 │   └── audit/
 │       └── best_model_selection_and_blockchain.ipynb
-├── data/                        # gitignored — see data/README.md for download links
 ├── models/                      # gitignored — trained weights (large)
 └── results/                     # metrics, plots, blockchain receipts
 ```
@@ -100,7 +99,7 @@ acoustic-keystroke-adversarial/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/acoustic-keystroke-adversarial.git
+git clone https://github.com/Base-Karthik-S/Robust-Keystroke-Classification-under-Adversarial-Conditions-with-Secure-Audit-Framework/Adversarial-Acoustic-Keystroke.git
 cd acoustic-keystroke-adversarial
 
 python -m venv .venv
@@ -135,7 +134,7 @@ Python · NumPy · librosa · scikit-learn · PyTorch / TensorFlow · Matplotlib
 
 ## Report
 
-The full write-up — methodology, threat model, evaluation metrics, and discussion — is in [`report/CSC8208_G2_GroupProject_Report.pdf`](report/CSC8208_G2_GroupProject_Report.pdf).
+The full write-up — methodology, threat model, evaluation metrics, and discussion — is in [`report/Report.pdf`](report/Report.pdf).
 
 ## Authors
 
