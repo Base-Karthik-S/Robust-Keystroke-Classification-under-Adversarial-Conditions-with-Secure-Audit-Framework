@@ -1,0 +1,17 @@
+model_name,Clean accuracy,attack type,epsilon,adversarial accuracy,relative accuracy,ASR
+CNN + Self-Attention,96,FGSM,0.005,94.19,98.11,1.89
+CNN + Self-Attention,96,FGSM,0.01,88.5,92.19,7.81
+CNN + Self-Attention,96,FGSM,0.02,68.44,71.29,28.71
+CNN + Self-Attention,96,FGSM,0.05,16.81,17.51,82.49
+CNN + Self-Attention,96,BIM,0.005,94,97.92,2.08
+CNN + Self-Attention,96,BIM,0.01,87.38,91.02,8.98
+CNN + Self-Attention,96,BIM,0.02,60.5,63.02,36.98
+CNN + Self-Attention,96,BIM,0.05,3.25,3.39,96.61
+CNN + Self-Attention,96,PGD,0.005,94,97.92,2.08
+CNN + Self-Attention,96,PGD,0.01,87,90.62,9.38
+CNN + Self-Attention,96,PGD,0.02,59.31,61.78,38.22
+CNN + Self-Attention,96,PGD,0.05,2.94,3.06,96.94
+CNN + Self-Attention,96,DFT-Random,0.005,95.88,99.87,0.13
+CNN + Self-Attention,96,DFT-Random,0.01,96.06,100.07,-0.07
+CNN + Self-Attention,96,DFT-Random,0.02,95.81,99.8,0.2
+CNN + Self-Attention,96,DFT-Random,0.05,94.69,98.63,1.37

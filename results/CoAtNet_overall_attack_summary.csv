@@ -1,0 +1,17 @@
+model_name,Clean accuracy,attack type,epsilon,adversarial accuracy,relative accuracy,ASR
+CNN Keystroke,97.81,FGSM,0.005,97,99.17,0.83
+CNN Keystroke,97.81,FGSM,0.01,95.25,97.38,2.62
+CNN Keystroke,97.81,FGSM,0.02,90.19,92.2,7.8
+CNN Keystroke,97.81,FGSM,0.05,78.38,80.13,19.87
+CNN Keystroke,97.81,BIM,0.005,97,99.17,0.83
+CNN Keystroke,97.81,BIM,0.01,94.75,96.87,3.13
+CNN Keystroke,97.81,BIM,0.02,86.12,88.05,11.95
+CNN Keystroke,97.81,BIM,0.05,52.69,53.87,46.13
+CNN Keystroke,97.81,PGD,0.005,97.38,99.55,0.45
+CNN Keystroke,97.81,PGD,0.01,96.12,98.27,1.73
+CNN Keystroke,97.81,PGD,0.02,91.5,93.55,6.45
+CNN Keystroke,97.81,PGD,0.05,64.94,66.39,33.61
+CNN Keystroke,97.81,DFT-Random,0.005,97.81,100,0
+CNN Keystroke,97.81,DFT-Random,0.01,97.81,100,0
+CNN Keystroke,97.81,DFT-Random,0.02,97.81,100,0
+CNN Keystroke,97.81,DFT-Random,0.05,97.88,100.06,-0.06
